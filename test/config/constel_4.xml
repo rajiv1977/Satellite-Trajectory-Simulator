@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+		<satellite>
+			<name>VANGUARD 1</name> 
+			<type>a_tle</type>
+			<line_1>1 00005U 58002B   14303.68785767  .00000090  00000-0  13807-3 0  2810</line_1>
+			<line_2>2 00005 034.2445 082.9352 1845908 098.6738 282.6209 10.84404075981992</line_2>
+		</satellite>
+		
+		<satellite>
+			<name>EXPLORER 7</name> 
+			<type>a_tle</type>
+			<line_1>1 00022U 59009A   14304.11865140  .00005187  00000-0  44971-3 0   681</line_1>
+			<line_2>2 00022 050.2859 011.1541 0152972 338.0164 021.4266 14.90021704917915</line_2>
+		</satellite>
+		
+		<satellite>
+			<name>THOR ABLESTAR DEB</name> 
+			<type>a_tle</type>
+			<line_1>1 00172U 61015AY  14304.34983118  .00000334  00000-0  53459-3 0   790</line_1>
+			<line_2>2 00172 067.0668 145.8049 0138046 198.0110 219.8106 13.56747261629015</line_2>
+		</satellite>
+		
+</satellite_user_parameter>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+		<satellite>
+			<name>VANGUARD 1</name> 
+			<type>a_tle</type>
+			<line_1>1 00005U 58002B   14303.68785767  .00000090  00000-0  13807-3 0  2810</line_1>
+			<line_2>2 00005 034.2445 082.9352 1845908 098.6738 282.6209 10.84404075981992</line_2>
+		</satellite>
+		
+		<satellite>
+			<name>VANGUARD 2</name> 
+			<type>a_tle</type>
+			<line_1>1 00011U 59001A   14304.05767682  .00000632  00000-0  32831-3 0  3063</line_1>
+			<line_2>2 00011 032.8699 212.0146 1472298 168.6405 195.1551 11.84667525372633</line_2>
+		</satellite>
+		
+		<satellite>
+			<name>VANGUARD R/B</name> 
+			<type>a_tle</type>
+			<line_1>1 00012U 59001B   14304.49934291  .00000350  00000-0  21459-3 0  9454</line_1>
+			<line_2>2 00012 032.9011 341.3312 1670601 071.1629 306.2277 11.43427175287048</line_2>
+		</satellite>
+		
+		<satellite>
+			<name>VANGUARD 3</name> 
+			<type>a_tle</type>
+			<line_1>1 00020U 59007A   14304.36322536  .00000555  00000-0  22125-3 0  6116</line_1>
+			<line_2>2 00020 033.3479 302.3019 1674847 166.6504 198.4657 11.54105951992783</line_2>
+		</satellite>	
+	
+</satellite_user_parameter>

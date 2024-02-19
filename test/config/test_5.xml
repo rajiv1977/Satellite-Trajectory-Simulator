@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+	<constellation>
+		<name>new1</name>
+		<type>new</type>
+		<location>constel_1.xml</location>
+	</constellation>
+	
+	<constellation>
+		<name>new1</name>
+		<type>new</type>
+		<location>constel_2.xml</location>
+	</constellation>
+		
+</satellite_user_parameter>

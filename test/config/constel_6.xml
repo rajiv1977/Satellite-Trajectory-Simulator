@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+		<satellite>
+			<name>manual_1</name> 
+			<type>new</type>
+			<epoch_year>14</epoch_year>
+			<day_of_year>302.9178</day_of_year>
+			<ndt>-00000241</ndt>
+			<nd2t>0</nd2t>
+			<bstar>0</bstar>
+			<inclination>13.4242</inclination>
+			<raan>330.1528</raan>
+			<eccentricity>0.0011</eccentricity>
+			<argument_of_perigee>249.2233</argument_of_perigee>
+			<mean_anomaly>239.8515</mean_anomaly>
+			<mean_motion>1.0020 </mean_motion>
+			<revolution_number>7699</revolution_number>
+		</satellite>	
+		
+		<satellite>
+			<name>NAVSTAR 21</name> 
+			<type>existing</type>
+			<source>TLE.3le</source>
+		</satellite>
+		
+		<satellite>
+			<name>VANGUARD 1</name> 
+			<type>a_tle</type>
+			<line_1>1 00005U 58002B   14303.68785767  .00000090  00000-0  13807-3 0  2810</line_1>
+			<line_2>2 00005 034.2445 082.9352 1845908 098.6738 282.6209 10.84404075981992</line_2>
+		</satellite>	
+	
+</satellite_user_parameter>

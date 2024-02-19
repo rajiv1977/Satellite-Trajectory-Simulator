@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+	<satellite>	
+		<name>New1</name>
+		<type>new</type>
+		<epoch_year>14</epoch_year>
+		<day_of_year>302.9178</day_of_year>
+		<ndt>-0.00000241</ndt>
+		<nd2t>0</nd2t>
+		<bstar>0</bstar>
+		<inclination>13.4242</inclination>
+		<raan>330.1528</raan>
+		<eccentricity>0.0011</eccentricity>
+		<argument_of_perigee>249.2233</argument_of_perigee>
+		<mean_anomaly>239.8515</mean_anomaly>
+		<mean_motion>1.0020 </mean_motion>
+		<revolution_number>7699</revolution_number>
+	</satellite>
+	
+	<satellite>
+		<name>NAVSTAR 21</name>
+		<type>existing</type>
+		<source>TLE.3le</source>
+	</satellite>
+	
+	<satellite>
+		<name>COSMOS 2110</name>
+		<type>existing</type>
+		<source>TLE.3le</source>
+	</satellite>
+	
+	<satellite>	
+		<name>THOR ABLESTAR DEB</name>
+		<type>a_tle</type>
+		<line_1>1 00172U 61015AY  14304.34983118  .00000334  00000-0  53459-3 0   790</line_1>
+		<line_2>2 00172 067.0668 145.8049 0138046 198.0110 219.8106 13.56747261629015</line_2>
+	</satellite>
+	
+	<satellite>
+		<name>VANGUARD R/B</name> 
+		<type>a_tle</type>
+		<line_1>1 00012U 59001B   14304.49934291  .00000350  00000-0  21459-3 0  9454</line_1>
+		<line_2>2 00012 032.9011 341.3312 1670601 071.1629 306.2277 11.43427175287048</line_2>
+	</satellite>
+		
+	<satellite>
+		<name>VANGUARD 3</name> 
+		<type>a_tle</type>
+		<line_1>1 00020U 59007A   14304.36322536  .00000555  00000-0  22125-3 0  6116</line_1>
+		<line_2>2 00020 033.3479 302.3019 1674847 166.6504 198.4657 11.54105951992783</line_2>
+	</satellite>	
+	
+</satellite_user_parameter>

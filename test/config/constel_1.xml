@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+		<satellite>
+			<name>manual_1</name> 
+			<type>new</type>
+			<epoch_year>14</epoch_year>
+			<day_of_year>302.9178</day_of_year>
+			<ndt>-00000241</ndt>
+			<nd2t>0</nd2t>
+			<bstar>0</bstar>
+			<inclination>13.4242</inclination>
+			<raan>330.1528</raan>
+			<eccentricity>0.0011</eccentricity>
+			<argument_of_perigee>249.2233</argument_of_perigee>
+			<mean_anomaly>239.8515</mean_anomaly>
+			<mean_motion>1.0020 </mean_motion>
+			<revolution_number>7699</revolution_number>
+		</satellite>	
+		
+		<satellite>
+			<name>manual_2</name> 
+			<type>new</type>
+			<epoch_year>14</epoch_year>
+			<day_of_year>303.6879</day_of_year>
+			<ndt>0.0000009</ndt>
+			<nd2t>0</nd2t>
+			<bstar>0.00013807</bstar>
+			<inclination>34</inclination>
+			<raan>82.9352</raan>
+			<eccentricity>0.1846</eccentricity>
+			<argument_of_perigee>98.6738</argument_of_perigee>
+			<mean_anomaly>282.62.9</mean_anomaly>
+			<mean_motion>10.8440</mean_motion>
+			<revolution_number>98199</revolution_number>
+		</satellite>
+		
+		<satellite>
+			<name>manual_3</name> 
+			<type>new</type>
+			<epoch_year>14</epoch_year>
+			<day_of_year>304.1187</day_of_year>
+			<ndt>0.000051870</ndt>
+			<nd2t>0</nd2t>
+			<bstar>0.00044971</bstar>
+			<inclination>50.2859</inclination>
+			<raan>11.1541</raan>
+			<eccentricity>0.0153</eccentricity>
+			<argument_of_perigee>338.0164</argument_of_perigee>
+			<mean_anomaly>21.4266</mean_anomaly>
+			<mean_motion>14.9002</mean_motion>
+			<revolution_number>91791</revolution_number>
+		</satellite>
+		
+		<satellite>
+			<name>manual_4</name> 
+			<type>new</type>
+			<epoch_year>14</epoch_year>
+			<day_of_year>304.1274</day_of_year>
+			<ndt>0.00000771</ndt>
+			<nd2t>0</nd2t>
+			<bstar>0.00036597</bstar>
+			<inclination>66.7300</inclination>
+			<raan>215.4194</raan>
+			<eccentricity>0.0099</eccentricity>
+			<argument_of_perigee>87.1123</argument_of_perigee>
+			<mean_anomaly>274.1297</mean_anomaly>
+			<mean_motion>14.2218</mean_motion>
+			<revolution_number>75412</revolution_number>
+		</satellite>	
+	
+</satellite_user_parameter>

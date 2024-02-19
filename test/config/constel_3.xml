@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<satellite_user_parameter>
+
+	<satellite>
+		<name>NAVSTAR</name>
+		<type>existing</type>
+		<source>TLE.3le</source>
+	</satellite>	
+	
+	<satellite>
+		<name>GLONASS</name>
+		<type>existing</type>
+		<source>TLE.3le</source>
+	</satellite>
+	
+		
+</satellite_user_parameter>
